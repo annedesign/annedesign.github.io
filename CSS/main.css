@@ -2,6 +2,10 @@ html {
   font-family: 'Roboto', sans-serif;
 }
 
+body{
+  margin:0 auto;
+}
+
 #bootcamp-figures {background-color: #4DC3F9;}
 header a {
   text-decoration: none;
@@ -44,7 +48,7 @@ color: #2D454C;
   line-height: 30px;
 }
 #bootcamp-program{
-  padding: 0 35px;
+  margin:0 auto;
 }
 .card-program {
   background-color: #f8f8f8;
